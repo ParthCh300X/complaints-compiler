@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "34202878090",
+    "project_id": "complaintscompiler",
+    "storage_bucket": "complaintscompiler.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34202878090:android:dc46d6691988cadd24ed73",
+        "android_client_info": {
+          "package_name": "udemy.appdev.complaintscompiler"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALCfY-FGEWxRaARR7yuEfWkUtWlBW8kYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
